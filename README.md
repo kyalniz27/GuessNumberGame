@@ -1,0 +1,1 @@
+A classic, simple number guessing game implemented using pure HTML, CSS, and JavaScript. The objective is to guess a random number selected by the computer within a defined range, receiving hints (higher or lower) along the way.
